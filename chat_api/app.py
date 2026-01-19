@@ -19,7 +19,7 @@ class ChatRequest(BaseModel):
     message: str
 
 
-TOOL_SERVER = "http://localhost:3333"
+TOOL_SERVER = "https://ecom-support-bot.onrender.com"
 
 # ---------------- INTENT PROMPT ----------------
 INTENT_PROMPT = """
