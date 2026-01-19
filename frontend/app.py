@@ -3,7 +3,7 @@ import requests
 import time
 
 # ---------------- CONFIG ----------------
-API_URL = "http://localhost:8000/chat"
+API_URL = "https://ecom-support-bot-1.onrender.com/chat"
 
 st.set_page_config(
     page_title="E-Commerce Support AI",
