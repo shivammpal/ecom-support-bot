@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "P101",
+    "name": "Wireless Earbuds X2",
+    "price": 1999,
+    "features": ["Bluetooth 5.3", "30h battery", "Fast charging"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P102",
+    "name": "Smart Watch Pro",
+    "price": 3499,
+    "features": ["Heart rate monitor", "AMOLED display", "7-day battery"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P103",
+    "name": "Bluetooth Speaker Mini",
+    "price": 1299,
+    "features": ["Deep bass", "10h playtime", "Water resistant"],
+    "category": "Electronics",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P104",
+    "name": "4K Action Camera",
+    "price": 8999,
+    "features": ["Waterproof", "Wi-Fi enabled", "Wide angle lens"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P105",
+    "name": "Gaming Mouse RGB",
+    "price": 1499,
+    "features": ["DPI adjustable", "Ergonomic design", "7 programmable buttons"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P106",
+    "name": "Mechanical Keyboard",
+    "price": 4500,
+    "features": ["Blue switches", "RGB backlight", "Compact layout"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P107",
+    "name": "Noise Cancelling Headphones",
+    "price": 12999,
+    "features": ["Active Noise Cancellation", "40h battery", "Over-ear comfort"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P108",
+    "name": "Portable Power Bank 20000mAh",
+    "price": 1899,
+    "features": ["Dual USB output", "Fast charging", "LED indicator"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P109",
+    "name": "Smartphone Gimbal Stabilizer",
+    "price": 6500,
+    "features": ["3-axis stabilization", "Face tracking", "Portable"],
+    "category": "Electronics",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P110",
+    "name": "USB-C Hub Multiport",
+    "price": 2200,
+    "features": ["HDMI 4K", "3x USB 3.0", "SD card reader"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P111",
+    "name": "Men's Cotton T-Shirt",
+    "price": 499,
+    "features": ["100% Cotton", "Round neck", "Breathable"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P112",
+    "name": "Slim Fit Denim Jeans",
+    "price": 1299,
+    "features": ["Stretchable fabric", "5-pocket design", "Dark wash"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P113",
+    "name": "Women's Running Shoes",
+    "price": 2499,
+    "features": ["Lightweight", "Cushioned sole", "Mesh upper"],
+    "category": "Clothing",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P114",
+    "name": "Waterproof Hiking Jacket",
+    "price": 3999,
+    "features": ["Windproof", "Multiple pockets", "Hooded"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P115",
+    "name": "Casual Sneakers White",
+    "price": 1899,
+    "features": ["Faux leather", "Rubber sole", "Minimalist design"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P116",
+    "name": "Formal Leather Belt",
+    "price": 799,
+    "features": ["Genuine leather", "Adjustable buckle", "Classic black"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P117",
+    "name": "Aviator Sunglasses",
+    "price": 999,
+    "features": ["UV protection", "Metal frame", "Polarized lens"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P118",
+    "name": "Yoga Leggings",
+    "price": 899,
+    "features": ["High waist", "Moisture wicking", "4-way stretch"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P119",
+    "name": "Winter Wool Scarf",
+    "price": 699,
+    "features": ["Soft texture", "Checkered pattern", "Warm"],
+    "category": "Clothing",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P120",
+    "name": "Sports Cap",
+    "price": 399,
+    "features": ["Adjustable strap", "Curved brim", "Breathable"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P121",
+    "name": "Stainless Steel Water Bottle",
+    "price": 550,
+    "features": ["Vacuum insulated", "Leak proof", "Keeps hot/cold"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P122",
+    "name": "Ceramic Coffee Mug Set",
+    "price": 799,
+    "features": ["Set of 4", "Microwave safe", "Minimalist design"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P123",
+    "name": "Non-Stick Frying Pan",
+    "price": 1200,
+    "features": ["Induction base", "Cool-touch handle", "PFOA free"],
+    "category": "Home & Kitchen",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P124",
+    "name": "Digital Kitchen Scale",
+    "price": 650,
+    "features": ["High precision", "LCD display", "Tare function"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P125",
+    "name": "Electric Kettle 1.5L",
+    "price": 999,
+    "features": ["Auto shut-off", "Stainless steel body", "Fast boiling"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P126",
+    "name": "Memory Foam Pillow",
+    "price": 1499,
+    "features": ["Ergonomic support", "Washable cover", "Hypoallergenic"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P127",
+    "name": "LED Desk Lamp",
+    "price": 899,
+    "features": ["Dimmable", "Touch control", "USB charging port"],
+    "category": "Home & Kitchen",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P128",
+    "name": "Bamboo Cutting Board",
+    "price": 450,
+    "features": ["Eco-friendly", "Durable", "Knife friendly"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P129",
+    "name": "Handheld Milk Frother",
+    "price": 350,
+    "features": ["Battery operated", "Stainless steel whisk", "Portable"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P130",
+    "name": "Portable Blender",
+    "price": 1299,
+    "features": ["Rechargeable", "Single serve", "BPA free"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P131",
+    "name": "Yoga Mat 6mm",
+    "price": 699,
+    "features": ["Anti-slip", "Eco-friendly material", "Carrying strap"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P132",
+    "name": "Dumbbell Set 5kg",
+    "price": 1599,
+    "features": ["Hexagonal shape", "Rubber coating", "Non-slip grip"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P133",
+    "name": "Resistance Bands Set",
+    "price": 499,
+    "features": ["5 varying levels", "Latex material", "Includes pouch"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P134",
+    "name": "Football Size 5",
+    "price": 899,
+    "features": ["Synthetic leather", "Machine stitched", "Durable"],
+    "category": "Sports",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P135",
+    "name": "Badminton Racket Set",
+    "price": 1199,
+    "features": ["Includes 2 rackets", "Lightweight frame", "Includes shuttlecocks"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P136",
+    "name": "Cycling Helmet",
+    "price": 1450,
+    "features": ["Ventilated", "Adjustable fit", "Impact resistant"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P137",
+    "name": "Jump Rope",
+    "price": 299,
+    "features": ["Adjustable length", "Ball bearings", "Foam handles"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P138",
+    "name": "Swimming Goggles",
+    "price": 599,
+    "features": ["Anti-fog", "UV protection", "Adjustable strap"],
+    "category": "Sports",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P139",
+    "name": "Knee Support Brace",
+    "price": 350,
+    "features": ["Breathable fabric", "Compression support", "Velcro strap"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P140",
+    "name": "Hiking Backpack 40L",
+    "price": 2899,
+    "features": ["Water resistant", "Ergonomic straps", "Laptop compartment"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P141",
+    "name": "True Wireless Earbuds Pro",
+    "price": 2499,
+    "features": ["Active Noise Cancellation", "Transparency Mode", "Wireless Charging"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P142",
+    "name": "Android Tablet 10-inch",
+    "price": 12999,
+    "features": ["Octa-core processor", "4GB RAM", "Dual speakers"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P143",
+    "name": "Smart Home Bulb",
+    "price": 699,
+    "features": ["App controlled", "RGB colors", "Voice assistant compatible"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P144",
+    "name": "Webcam 1080p",
+    "price": 1800,
+    "features": ["Built-in microphone", "Privacy shutter", "Plug and play"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P145",
+    "name": "External Hard Drive 1TB",
+    "price": 3999,
+    "features": ["USB 3.0", "Shock resistant", "Portable"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P146",
+    "name": "Hooded Sweatshirt",
+    "price": 1499,
+    "features": ["Fleece lined", "Kangaroo pocket", "Drawstring hood"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P147",
+    "name": "Chino Shorts",
+    "price": 899,
+    "features": ["Cotton blend", "Button closure", "Slim fit"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P148",
+    "name": "Floral Summer Dress",
+    "price": 1799,
+    "features": ["Lightweight rayon", "Midi length", "Short sleeves"],
+    "category": "Clothing",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P149",
+    "name": "Thermal Innerwear Set",
+    "price": 999,
+    "features": ["Heat retention", "Soft touch", "Lightweight"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P150",
+    "name": "Laptop Bag",
+    "price": 1599,
+    "features": ["Padded compartment", "Water repellent", "Multiple organizers"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P151",
+    "name": "Electric Toothbrush",
+    "price": 1299,
+    "features": ["2 minute timer", "Rechargeable", "3 cleaning modes"],
+    "category": "Health & Personal Care",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P152",
+    "name": "Digital Thermometer",
+    "price": 299,
+    "features": ["Fast reading", "LCD screen", "Memory function"],
+    "category": "Health & Personal Care",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P153",
+    "name": "Hair Dryer",
+    "price": 1499,
+    "features": ["2 speed settings", "Cool shot button", "Foldable handle"],
+    "category": "Health & Personal Care",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P154",
+    "name": "Beard Trimmer",
+    "price": 999,
+    "features": ["Cordless", "Adjustable length", "Stainless steel blades"],
+    "category": "Health & Personal Care",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P155",
+    "name": "Vitamin C Serum",
+    "price": 599,
+    "features": ["Brightening", "Anti-aging", "30ml bottle"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P156",
+    "name": "Matte Lipstick",
+    "price": 450,
+    "features": ["Long lasting", "Smudge proof", "High pigment"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P157",
+    "name": "Sunscreen SPF 50",
+    "price": 399,
+    "features": ["Broad spectrum", "Non-greasy", "Water resistant"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P158",
+    "name": "Aloe Vera Gel",
+    "price": 250,
+    "features": ["99% pure", "Soothing", "Multipurpose"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P159",
+    "name": "Charcoal Face Mask",
+    "price": 299,
+    "features": ["Deep cleansing", "Peel off", "Removes blackheads"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P160",
+    "name": "Scented Candle",
+    "price": 499,
+    "features": ["Vanilla bean", "Soy wax", "20h burn time"],
+    "category": "Home Decor",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P161",
+    "name": "Wall Clock Vintage",
+    "price": 899,
+    "features": ["Silent movement", "Large numbers", "Retro design"],
+    "category": "Home Decor",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P162",
+    "name": "Throw Pillow Covers",
+    "price": 399,
+    "features": ["Set of 2", "Velvet fabric", "Hidden zipper"],
+    "category": "Home Decor",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P163",
+    "name": "Artificial Potted Plant",
+    "price": 299,
+    "features": ["Realistic look", "Plastic pot", "Maintenance free"],
+    "category": "Home Decor",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P164",
+    "name": "Picture Frame Set",
+    "price": 699,
+    "features": ["Set of 3", "Wooden finish", "Wall mountable"],
+    "category": "Home Decor",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P165",
+    "name": "Sketch Book A4",
+    "price": 250,
+    "features": ["100 GSM paper", "Spiral bound", "Hardcover"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P166",
+    "name": "Gel Pen Set",
+    "price": 199,
+    "features": ["10 colors", "Smooth flow", "Fine tip"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P167",
+    "name": "Sticky Notes Pack",
+    "price": 150,
+    "features": ["Neon colors", "Strong adhesive", "400 sheets"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P168",
+    "name": "Desk Organizer",
+    "price": 499,
+    "features": ["Metal mesh", "Multiple compartments", "Anti-slip base"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P169",
+    "name": "Scientific Calculator",
+    "price": 850,
+    "features": ["240 functions", "Slide-on cover", "Battery powered"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P170",
+    "name": "Pet Bed Medium",
+    "price": 1299,
+    "features": ["Soft plush", "Non-slip bottom", "Machine washable"],
+    "category": "Pet Supplies",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P171",
+    "name": "Dog Leash Retractable",
+    "price": 699,
+    "features": ["5 meters length", "One-button brake", "Durable nylon"],
+    "category": "Pet Supplies",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P172",
+    "name": "Cat Scratching Post",
+    "price": 999,
+    "features": ["Sisal rope", "Hanging toy", "Sturdy base"],
+    "category": "Pet Supplies",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P173",
+    "name": "Pet Water Dispenser",
+    "price": 450,
+    "features": ["Gravity feed", "1.5L capacity", "Easy to clean"],
+    "category": "Pet Supplies",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P174",
+    "name": "Baby Stroller Fan",
+    "price": 799,
+    "features": ["Flexible tripod", "Rechargeable", "Baby safe"],
+    "category": "Baby Products",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P175",
+    "name": "Diaper Bag Backpack",
+    "price": 1899,
+    "features": ["Insulated pockets", "Changing mat included", "Waterproof"],
+    "category": "Baby Products",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P176",
+    "name": "Baby Monitor Audio",
+    "price": 2499,
+    "features": ["Two-way talk", "Long range", "Night light"],
+    "category": "Baby Products",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P177",
+    "name": "Silicone Teething Toy",
+    "price": 299,
+    "features": ["BPA free", "Easy to hold", "Textured surface"],
+    "category": "Baby Products",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P178",
+    "name": "Car Vacuum Cleaner",
+    "price": 1499,
+    "features": ["High suction", "HEPA filter", "Corded 12V"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P179",
+    "name": "Phone Mount for Car",
+    "price": 499,
+    "features": ["Dashboard mount", "360 rotation", "Strong suction"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P180",
+    "name": "Car Sun Shade",
+    "price": 350,
+    "features": ["UV block", "Foldable", "Universal fit"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P181",
+    "name": "Microfiber Cleaning Cloths",
+    "price": 299,
+    "features": ["Pack of 3", "Lint free", "Super absorbent"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P182",
+    "name": "VR Headset Entry",
+    "price": 2199,
+    "features": ["Smartphone compatible", "Adjustable lens", "Comfortable strap"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P183",
+    "name": "Graphics Tablet",
+    "price": 4500,
+    "features": ["Battery-free pen", "8192 pressure levels", "Custom keys"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P184",
+    "name": "Drone with Camera",
+    "price": 5999,
+    "features": ["720p HD", "Altitude hold", "One key return"],
+    "category": "Electronics",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P185",
+    "name": "Wireless Charger Pad",
+    "price": 999,
+    "features": ["10W fast charge", "Qi compatible", "Slim design"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P186",
+    "name": "Smart Scale Body Fat",
+    "price": 1699,
+    "features": ["Bluetooth app", "13 body metrics", "Tempered glass"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P187",
+    "name": "Corduroy Jacket",
+    "price": 2299,
+    "features": ["Vintage style", "Button down", "Warm lining"],
+    "category": "Clothing",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P188",
+    "name": "Graphic Print Hoodie",
+    "price": 1199,
+    "features": ["Cotton blend", "Oversized fit", "Trendy design"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P189",
+    "name": "Running Shorts",
+    "price": 699,
+    "features": ["Quick dry", "Built-in liner", "Reflective logo"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P190",
+    "name": "Formal Shirt Blue",
+    "price": 1299,
+    "features": ["Wrinkle resistant", "Regular fit", "Cotton"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P191",
+    "name": "Leather Wallet",
+    "price": 899,
+    "features": ["RFID blocking", "Coin pocket", "Card slots"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P192",
+    "name": "Canvas Tote Bag",
+    "price": 450,
+    "features": ["Eco friendly", "Printed design", "Large capacity"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P193",
+    "name": "Analog Wrist Watch",
+    "price": 1999,
+    "features": ["Leather strap", "Water resistant", "Quartz movement"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P194",
+    "name": "Travel Pillow Neck",
+    "price": 699,
+    "features": ["Memory foam", "Snap closure", "Washable cover"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P195",
+    "name": "Camping Tent 2-Person",
+    "price": 3499,
+    "features": ["Waterproof", "Easy setup", "Mosquito mesh"],
+    "category": "Sports",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P196",
+    "name": "Sleeping Bag",
+    "price": 1899,
+    "features": ["3 season use", "Compact carry bag", "Warm lining"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P197",
+    "name": "Trekking Pole",
+    "price": 999,
+    "features": ["Telescopic", "Shock absorbent", "Ergonomic grip"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P198",
+    "name": "Binoculars 10x50",
+    "price": 2599,
+    "features": ["Wide field of view", "Rubber armor", "Clear optics"],
+    "category": "Sports",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P199",
+    "name": "Puzzle 1000 Pieces",
+    "price": 799,
+    "features": ["High quality board", "Landscape image", "Challenge"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P200",
+    "name": "Building Blocks Set",
+    "price": 1499,
+    "features": ["500 pieces", "Creative play", "Compatible with major brands"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P201",
+    "name": "Wi-Fi 6 Router",
+    "price": 4999,
+    "features": ["Dual-band", "Gigabit ports", "High coverage"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P202",
+    "name": "Curved Gaming Monitor 27\"",
+    "price": 18500,
+    "features": ["144Hz refresh rate", "1ms response", "FreeSync"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P203",
+    "name": "Internal SSD 1TB NVMe",
+    "price": 6200,
+    "features": ["High speed", "M.2 factor", "Heat sink included"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P204",
+    "name": "Laser Printer Monochrome",
+    "price": 9999,
+    "features": ["Wireless printing", "Fast output", "Compact size"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P205",
+    "name": "Soundbar with Subwoofer",
+    "price": 7999,
+    "features": ["Dolby Audio", "Bluetooth", "Optical input"],
+    "category": "Electronics",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P206",
+    "name": "Mirrorless Camera Body",
+    "price": 45000,
+    "features": ["24MP sensor", "4K video", "Eye autofocus"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P207",
+    "name": "Smart Doorbell Video",
+    "price": 3499,
+    "features": ["Motion detection", "Two-way audio", "Night vision"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P208",
+    "name": "Drawing Tablet with Screen",
+    "price": 22000,
+    "features": ["13-inch display", "Pen pressure 8192", "Custom keys"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P209",
+    "name": "Mini Projector Portable",
+    "price": 6500,
+    "features": ["1080p support", "Built-in speaker", "HDMI/USB"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P210",
+    "name": "Noise Cancelling Mic USB",
+    "price": 2800,
+    "features": ["Cardioid pattern", "Mute button", "Tripod stand"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P211",
+    "name": "Men's Polo Shirt Striped",
+    "price": 799,
+    "features": ["Classic collar", "Breathable cotton", "Regular fit"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P212",
+    "name": "Women's Ankle Boots",
+    "price": 2199,
+    "features": ["Faux leather", "Block heel", "Side zipper"],
+    "category": "Clothing",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P213",
+    "name": "Cargo Trousers Olive",
+    "price": 1499,
+    "features": ["6 pockets", "Rugged fabric", "Relaxed fit"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P214",
+    "name": "Silk Saree Traditional",
+    "price": 3500,
+    "features": ["Zari border", "Blouse piece", "Rich texture"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P215",
+    "name": "Kids Raincoat Yellow",
+    "price": 599,
+    "features": ["Hooded", "Waterproof PVC", "Button closure"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P216",
+    "name": "Gym Tank Top Racerback",
+    "price": 450,
+    "features": ["Moisture wicking", "Stretchable", "Sleeveless"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P217",
+    "name": "Linen Trousers Beige",
+    "price": 1699,
+    "features": ["Drawstring waist", "Summer wear", "Lightweight"],
+    "category": "Clothing",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P218",
+    "name": "Leather Biker Jacket",
+    "price": 4999,
+    "features": ["Quilted shoulders", "Zip pockets", "Stand collar"],
+    "category": "Clothing",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P219",
+    "name": "Sports Bra High Impact",
+    "price": 899,
+    "features": ["Padded", "Cross back", "Sweat resistant"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P220",
+    "name": "Tracksuit Set Navy",
+    "price": 2499,
+    "features": ["Jacket and pants", "Polyester blend", "Zippered"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P221",
+    "name": "Air Fryer 4L",
+    "price": 3999,
+    "features": ["Oil-free cooking", "Digital timer", "Non-stick basket"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P222",
+    "name": "Robot Vacuum Cleaner",
+    "price": 15999,
+    "features": ["Auto charging", "App control", "Mop function"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P223",
+    "name": "Cotton Bedsheet Double",
+    "price": 899,
+    "features": ["Floral print", "Includes pillow covers", "Soft touch"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P224",
+    "name": "Orthopedic Mattress Queen",
+    "price": 12000,
+    "features": ["Memory foam", "Back support", "10-year warranty"],
+    "category": "Home & Kitchen",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P225",
+    "name": "Shoe Rack 4-Tier",
+    "price": 650,
+    "features": ["Metal frame", "Stackable", "Easy assembly"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P226",
+    "name": "Blackout Curtains",
+    "price": 1299,
+    "features": ["Set of 2", "Thermal insulated", "Grommet top"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P227",
+    "name": "Glass Food Containers",
+    "price": 999,
+    "features": ["Set of 3", "Airtight lids", "Microwave safe"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P228",
+    "name": "Standing Desk Converter",
+    "price": 6500,
+    "features": ["Adjustable height", "Gas spring", "Keyboard tray"],
+    "category": "Home & Kitchen",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P229",
+    "name": "Spice Rack Rotating",
+    "price": 550,
+    "features": ["16 jars", "Stainless steel", "360 degree spin"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P230",
+    "name": "Bean Bag Chair XXL",
+    "price": 1499,
+    "features": ["Faux leather", "With beans", "Lounging comfort"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P231",
+    "name": "Cricket Bat English Willow",
+    "price": 4500,
+    "features": ["Grade 1 willow", "Short handle", "Light pickup"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P232",
+    "name": "Basketball Size 7",
+    "price": 799,
+    "features": ["Indoor/Outdoor", "Excellent grip", "Rubber"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P233",
+    "name": "Tennis Racket Graphite",
+    "price": 2999,
+    "features": ["Pre-strung", "Vibration dampener", "Lightweight"],
+    "category": "Sports",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P234",
+    "name": "Punching Bag 4ft",
+    "price": 1899,
+    "features": ["Unfilled", "Heavy duty chain", "Canvas material"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P235",
+    "name": "Skateboard Maple Wood",
+    "price": 1550,
+    "features": ["Double kick", "ABEC-7 bearings", "Graphic deck"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P236",
+    "name": "Ab Roller Wheel",
+    "price": 499,
+    "features": ["Knee mat included", "Dual wheel", "Core training"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P237",
+    "name": "Table Tennis Set",
+    "price": 850,
+    "features": ["2 paddles", "3 balls", "Retractable net"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P238",
+    "name": "Golf Putter",
+    "price": 2200,
+    "features": ["Steel shaft", "Alignment aid", "Right handed"],
+    "category": "Sports",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P239",
+    "name": "Snorkel Mask Full Face",
+    "price": 1399,
+    "features": ["Anti-leak", "GoPro mount", "Easy breathing"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P240",
+    "name": "Camping Stove Portable",
+    "price": 999,
+    "features": ["Butane gas", "Wind shield", "Carry case"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P241",
+    "name": "Facial Cleanser Foam",
+    "price": 350,
+    "features": ["Gentle formula", "Vitamin E", "Daily use"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P242",
+    "name": "Hair Straightener",
+    "price": 1299,
+    "features": ["Ceramic plates", "Fast heat up", "Swivel cord"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P243",
+    "name": "Perfume EDP 100ml",
+    "price": 1999,
+    "features": ["Woody scent", "Long lasting", "Luxury bottle"],
+    "category": "Beauty",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P244",
+    "name": "Makeup Brush Set",
+    "price": 599,
+    "features": ["12 pieces", "Synthetic bristles", "Travel pouch"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P245",
+    "name": "Men's Shaving Kit",
+    "price": 899,
+    "features": ["Razor", "Brush", "Shaving cream", "Aftershave"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P246",
+    "name": "Gel Nail Polish UV",
+    "price": 250,
+    "features": ["Requires UV lamp", "High gloss", "Chip resistant"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P247",
+    "name": "Bath Bombs Gift Set",
+    "price": 699,
+    "features": ["Pack of 6", "Essential oils", "Fizzing action"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P248",
+    "name": "Anti-Dandruff Shampoo",
+    "price": 399,
+    "features": ["Cool menthol", "Scalp care", "400ml"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P249",
+    "name": "Eyeliner Waterproof",
+    "price": 299,
+    "features": ["Jet black", "Smudge proof", "Felt tip"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P250",
+    "name": "Body Scrub Coffee",
+    "price": 450,
+    "features": ["Exfoliating", "Tan removal", "Coconut oil"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P251",
+    "name": "Acrylic Paint Set",
+    "price": 499,
+    "features": ["12 colors", "Quick dry", "Vibrant pigment"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P252",
+    "name": "Fountain Pen Classic",
+    "price": 850,
+    "features": ["Fine nib", "Ink converter", "Metal body"],
+    "category": "Stationery",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P253",
+    "name": "A3 Drawing Board",
+    "price": 1200,
+    "features": ["Adjustable angle", "Drafting clips", "Wooden"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P254",
+    "name": "Paper Shredder",
+    "price": 2500,
+    "features": ["Cross cut", "Credit card shredding", "10L bin"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P255",
+    "name": "Weekly Planner Journal",
+    "price": 399,
+    "features": ["Undated", "Goal tracking", "Hardcover"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P256",
+    "name": "Whiteboard 2x3ft",
+    "price": 999,
+    "features": ["Magnetic surface", "Aluminium frame", "Duster included"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P257",
+    "name": "Correction Tape Pack",
+    "price": 199,
+    "features": ["Instant dry", "5mm width", "Pack of 3"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P258",
+    "name": "Heavy Duty Stapler",
+    "price": 450,
+    "features": ["Staples 50 sheets", "Non-skid base", "Metal construction"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P259",
+    "name": "Canvas Easel Stand",
+    "price": 799,
+    "features": ["Tripod design", "Adjustable height", "Pine wood"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P260",
+    "name": "Calligraphy Set",
+    "price": 650,
+    "features": ["3 nibs", "Black ink", "Instruction manual"],
+    "category": "Stationery",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P261",
+    "name": "Garden Pruning Shears",
+    "price": 399,
+    "features": ["Carbon steel blade", "Safety lock", "Ergonomic handle"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P262",
+    "name": "Solar Garden Lights",
+    "price": 899,
+    "features": ["Pack of 4", "Auto on/off", "Waterproof"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P263",
+    "name": "Ceramic Plant Pot Large",
+    "price": 599,
+    "features": ["Drainage hole", "Glazed finish", "10 inch"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P264",
+    "name": "Water Hose Pipe 15m",
+    "price": 650,
+    "features": ["Braided PVC", "Spray nozzle included", "Kink resistant"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P265",
+    "name": "Hammock with Straps",
+    "price": 1299,
+    "features": ["Nylon fabric", "Portable", "Supports 200kg"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P266",
+    "name": "Bird Feeder Hanging",
+    "price": 350,
+    "features": ["Plastic tube", "Squirrel proof", "Weather resistant"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P267",
+    "name": "BBQ Grill Charcoal",
+    "price": 2499,
+    "features": ["Portable", "Foldable legs", "Cooking grate"],
+    "category": "Garden & Outdoors",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P268",
+    "name": "Lawn Mower Manual",
+    "price": 4500,
+    "features": ["Eco friendly", "Height adjustment", "Grass catcher"],
+    "category": "Garden & Outdoors",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P269",
+    "name": "Gardening Gloves",
+    "price": 199,
+    "features": ["Claw fingertips", "Rubber coating", "Washable"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P270",
+    "name": "Fertilizer Organic",
+    "price": 299,
+    "features": ["1kg pack", "Plant booster", "Slow release"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P271",
+    "name": "Board Game Strategy",
+    "price": 1499,
+    "features": ["2-4 players", "Resource management", "60 min playtime"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P272",
+    "name": "Remote Control Car",
+    "price": 999,
+    "features": ["High speed", "Rechargeable battery", "Off-road tires"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P273",
+    "name": "Plush Teddy Bear",
+    "price": 599,
+    "features": ["Soft fur", "30cm height", "Hypoallergenic"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P274",
+    "name": "Rubik's Cube Speed",
+    "price": 299,
+    "features": ["Magnetic", "Smooth turning", "Stickerless"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P275",
+    "name": "Science Experiment Kit",
+    "price": 899,
+    "features": ["20 experiments", "STEM learning", "Safe chemicals"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P276",
+    "name": "Doll House Wooden",
+    "price": 3500,
+    "features": ["3 stories", "Furniture included", "Hand painted"],
+    "category": "Toys & Games",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P277",
+    "name": "Action Figure Hero",
+    "price": 750,
+    "features": ["Articulated joints", "Collector's box", "Accessories"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P278",
+    "name": "Play Dough Set",
+    "price": 399,
+    "features": ["10 colors", "Non-toxic", "Molds included"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P279",
+    "name": "Flying Disc Frisbee",
+    "price": 150,
+    "features": ["Aerodynamic", "Durable plastic", "Outdoor fun"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P280",
+    "name": "Chess Set Magnetic",
+    "price": 550,
+    "features": ["Folding board", "Travel size", "Storage slots"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P281",
+    "name": "Car Air Purifier",
+    "price": 2200,
+    "features": ["Ionizer", "Removes odors", "USB powered"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P282",
+    "name": "Dash Cam 1080p",
+    "price": 3999,
+    "features": ["Loop recording", "G-sensor", "Wide angle"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P283",
+    "name": "Tire Inflator Digital",
+    "price": 1800,
+    "features": ["Auto shut off", "LED light", "12V DC"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P284",
+    "name": "Car Floor Mats Universal",
+    "price": 999,
+    "features": ["Set of 4", "Rubber", "Waterproof"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P285",
+    "name": "Jump Starter Kit",
+    "price": 4500,
+    "features": ["Power bank function", "Safety clamps", "Flashlight"],
+    "category": "Automotive",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P286",
+    "name": "Steering Wheel Cover",
+    "price": 399,
+    "features": ["Leatherette", "Anti-slip", "Breathable"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P287",
+    "name": "Car Wash Shampoo",
+    "price": 250,
+    "features": ["High foam", "Wax compatible", "1 Liter"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P288",
+    "name": "Blind Spot Mirrors",
+    "price": 150,
+    "features": ["Pack of 2", "Stick on", "Convex glass"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P289",
+    "name": "Trunk Organizer",
+    "price": 699,
+    "features": ["Collapsible", "Multiple pockets", "Secure straps"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P290",
+    "name": "Helmet Lock Cable",
+    "price": 299,
+    "features": ["Combination lock", "Steel cable", "Scratch protection"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P291",
+    "name": "Network Switch 5-Port",
+    "price": 999,
+    "features": ["Gigabit", "Plug and play", "Metal case"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P292",
+    "name": "Bluetooth Adapter USB",
+    "price": 399,
+    "features": ["BT 5.0", "Low latency", "Mini size"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P293",
+    "name": "Capture Card HDMI",
+    "price": 1299,
+    "features": ["1080p 60fps", "USB 3.0", "Low delay"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P294",
+    "name": "Vlogging Tripod Kit",
+    "price": 1500,
+    "features": ["Flexible legs", "Phone holder", "Bluetooth remote"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P295",
+    "name": "Raspberry Pi 4",
+    "price": 4200,
+    "features": ["4GB RAM", "Quad core", "Dual display"],
+    "category": "Electronics",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P296",
+    "name": "Thermal Paste",
+    "price": 350,
+    "features": ["High conductivity", "4g tube", "Spatula included"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P297",
+    "name": "Walkie Talkie Set",
+    "price": 2800,
+    "features": ["2-way radio", "3km range", "Rechargeable"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P298",
+    "name": "Surge Protector Strip",
+    "price": 799,
+    "features": ["6 sockets", "USB charging", "Overload protection"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P299",
+    "name": "Document Scanner",
+    "price": 8500,
+    "features": ["Auto feeder", "Duplex scanning", "Searchable PDF"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P300",
+    "name": "Digital Photo Frame",
+    "price": 3200,
+    "features": ["10 inch screen", "Slideshow mode", "Remote control"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P301",
+    "name": "Denim Jacket Faded",
+    "price": 1899,
+    "features": ["Button front", "Chest pockets", "Casual style"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P302",
+    "name": "Puffer Vest Black",
+    "price": 1599,
+    "features": ["Sleeveless", "Insulated", "Zip closure"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P303",
+    "name": "Maxi Skirt Floral",
+    "price": 999,
+    "features": ["Elastic waist", "Flowy fabric", "Boho style"],
+    "category": "Clothing",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P304",
+    "name": "Silk Tie & Cufflinks",
+    "price": 899,
+    "features": ["Gift box", "Matching pattern", "Formal wear"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P305",
+    "name": "Baseball Cap Embroidered",
+    "price": 499,
+    "features": ["Snapback", "Cotton twill", "3D logo"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P306",
+    "name": "Swim Shorts Printed",
+    "price": 699,
+    "features": ["Mesh lining", "Quick dry", "Drawcord"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P307",
+    "name": "Compression Socks",
+    "price": 399,
+    "features": ["Knee high", "Improves circulation", "Sport use"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P308",
+    "name": "Kimono Robe Satin",
+    "price": 1299,
+    "features": ["Belted", "Silky feel", "Lounge wear"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P309",
+    "name": "Woolen Beanie Hat",
+    "price": 350,
+    "features": ["Knitted", "Unisex", "Warm"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P310",
+    "name": "Leather Gloves",
+    "price": 1100,
+    "features": ["Touchscreen compatible", "Fleece lined", "Genuine leather"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P311",
+    "name": "Bookshelf 5-Tier",
+    "price": 3500,
+    "features": ["Wooden finish", "Open back", "Tall design"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P312",
+    "name": "Wine Glasses Set",
+    "price": 1200,
+    "features": ["Set of 6", "Crystal clear", "Stemmed"],
+    "category": "Home & Kitchen",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P313",
+    "name": "Pressure Cooker 3L",
+    "price": 1599,
+    "features": ["Stainless steel", "Safety valve", "Induction base"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P314",
+    "name": "Laundry Basket Bamboo",
+    "price": 999,
+    "features": ["Foldable", "Lid included", "Removable liner"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P315",
+    "name": "Doormat Coir",
+    "price": 350,
+    "features": ["Welcome print", "Non-slip backing", "Trap dirt"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P316",
+    "name": "Wall Mirror Round",
+    "price": 1800,
+    "features": ["Metal frame", "24 inch diameter", "Modern look"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P317",
+    "name": "Ceiling Fan Decorative",
+    "price": 2800,
+    "features": ["High speed", "Anti-dust paint", "3 blades"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P318",
+    "name": "Hand Mixer Electric",
+    "price": 1100,
+    "features": ["5 speeds", "Dough hooks", "Eject button"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P319",
+    "name": "Table Lamp Ceramic",
+    "price": 1450,
+    "features": ["Fabric shade", "E27 bulb base", "Bedside use"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P320",
+    "name": "Rug Shaggy Carpet",
+    "price": 2200,
+    "features": ["Soft pile", "4x6 feet", "Grey color"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P321",
+    "name": "Foam Roller",
+    "price": 699,
+    "features": ["High density", "Muscle massage", "Grid pattern"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P322",
+    "name": "Pull Up Bar Doorway",
+    "price": 1200,
+    "features": ["No screw installation", "Adjustable width", "Foam grip"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P323",
+    "name": "Skipping Rope Weighted",
+    "price": 550,
+    "features": ["Removable weights", "Speed cable", "Cardio"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P324",
+    "name": "Boxing Gloves 12oz",
+    "price": 1699,
+    "features": ["Velcro strap", "Thumb lock", "Synthetic leather"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P325",
+    "name": "Dart Board Set",
+    "price": 1399,
+    "features": ["Double sided", "6 brass darts", "18 inch"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P326",
+    "name": "Volleyball Soft Touch",
+    "price": 899,
+    "features": ["Official size", "PU material", "Training ball"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P327",
+    "name": "Stopwatch Digital",
+    "price": 299,
+    "features": ["Lap memory", "Alarm function", "Lanyard"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P328",
+    "name": "Ankle Weights 1kg",
+    "price": 650,
+    "features": ["Pair", "Adjustable strap", "Sand filled"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P329",
+    "name": "Surfboard Leash",
+    "price": 999,
+    "features": ["TPU cord", "Velcro ankle cuff", "Swivel"],
+    "category": "Sports",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P330",
+    "name": "Fishing Rod Telescopic",
+    "price": 2500,
+    "features": ["Carbon fiber", "Reel included", "Travel friendly"],
+    "category": "Sports",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P331",
+    "name": "Sheet Mask Aloe",
+    "price": 100,
+    "features": ["Hydrating", "Single use", "Korean beauty"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P332",
+    "name": "Lip Balm Tinted",
+    "price": 199,
+    "features": ["Strawberry flavor", "Moisturizing", "Sheer color"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P333",
+    "name": "Hair Wax Matte",
+    "price": 350,
+    "features": ["Strong hold", "Low shine", "Easy wash"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P334",
+    "name": "Face Roller Jade",
+    "price": 499,
+    "features": ["Real stone", "Dual head", "Reduces puffiness"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P335",
+    "name": "False Eyelashes",
+    "price": 250,
+    "features": ["Natural look", "Reusable", "Glue included"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P336",
+    "name": "Compact Powder",
+    "price": 399,
+    "features": ["Oil control", "Mirror case", "Medium coverage"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P337",
+    "name": "Nail Clipper Set",
+    "price": 299,
+    "features": ["Stainless steel", "File included", "Ergonomic"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P338",
+    "name": "Makeup Sponge Blender",
+    "price": 150,
+    "features": ["Latex free", "Teardrop shape", "Soft"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P339",
+    "name": "Argan Hair Oil",
+    "price": 599,
+    "features": ["Frizz control", "Shine booster", "100ml"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P340",
+    "name": "Cotton Pads Pack",
+    "price": 120,
+    "features": ["100 pieces", "Makeup removal", "Soft textured"],
+    "category": "Beauty",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P341",
+    "name": "Notebook Hardbound A5",
+    "price": 299,
+    "features": ["Ruled pages", "Elastic band", "Pocket"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P342",
+    "name": "Highlighter Pen Pastel",
+    "price": 250,
+    "features": ["Set of 6", "Chisel tip", "No bleed"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P343",
+    "name": "File Folder Expandable",
+    "price": 350,
+    "features": ["12 pockets", "A4 size", "Tab labels"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P344",
+    "name": "Geometry Box",
+    "price": 199,
+    "features": ["Compass & divider", "Ruler set", "Metal case"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P345",
+    "name": "ID Card Lanyard",
+    "price": 99,
+    "features": ["Satin ribbon", "Metal clip", "Black"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P346",
+    "name": "Desk Mat Extended",
+    "price": 599,
+    "features": ["Mouse & keyboard fit", "Water resistant", "Anti-fray"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P347",
+    "name": "Push Pins Colored",
+    "price": 80,
+    "features": ["Box of 100", "Plastic head", "Sharp point"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P348",
+    "name": "Tape Dispenser",
+    "price": 250,
+    "features": ["Weighted base", "Non-slip", "Fits 1 inch core"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P349",
+    "name": "Business Card Holder",
+    "price": 299,
+    "features": ["Stainless steel", "Slim profile", "Magnetic shut"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P350",
+    "name": "Color Pencils 24",
+    "price": 350,
+    "features": ["Pre-sharpened", "Rich color", "Break resistant"],
+    "category": "Stationery",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P351",
+    "name": "Tool Box Plastic",
+    "price": 699,
+    "features": ["Removable tray", "Lockable", "Handle"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P352",
+    "name": "Extension Cord 5m",
+    "price": 450,
+    "features": ["2 pin", "Flexible wire", "Indicator light"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P353",
+    "name": "Padlock Brass",
+    "price": 299,
+    "features": ["3 keys", "Hardened shackle", "40mm"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P354",
+    "name": "Flashlight LED Rechargeable",
+    "price": 599,
+    "features": ["Zoomable", "Metal body", "Long battery"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P355",
+    "name": "Swiss Knife Multi-tool",
+    "price": 999,
+    "features": ["12 functions", "Stainless steel", "Compact"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P356",
+    "name": "Spray Bottle Trigger",
+    "price": 150,
+    "features": ["500ml", "Adjustable nozzle", "Clear plastic"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P357",
+    "name": "Work Gloves Leather",
+    "price": 350,
+    "features": ["Heavy duty", "Palm protection", "Construction use"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P358",
+    "name": "Step Ladder 3-Step",
+    "price": 2200,
+    "features": ["Aluminium", "Anti-slip feet", "Foldable"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P359",
+    "name": "Mosquito Racket",
+    "price": 499,
+    "features": ["Rechargeable", "UV light", "Mesh net"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P360",
+    "name": "Trowel Hand Shovel",
+    "price": 199,
+    "features": ["Steel blade", "Wooden handle", "Garden digging"],
+    "category": "Garden & Outdoors",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P361",
+    "name": "Lego Classic Brick",
+    "price": 1999,
+    "features": ["Creative box", "Various colors", "Idea booklet"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P362",
+    "name": "Yo-Yo Professional",
+    "price": 399,
+    "features": ["Metal body", "Ball bearing", "Long spin"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P363",
+    "name": "Stuffed Elephant",
+    "price": 699,
+    "features": ["Grey plush", "Floppy ears", "Soft huggable"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P364",
+    "name": "Water Gun Blaster",
+    "price": 450,
+    "features": ["Pump action", "Long range", "Large tank"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P365",
+    "name": "Card Game Uno",
+    "price": 199,
+    "features": ["Family fun", "112 cards", "Tin box"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P366",
+    "name": "Kitchen Set Toy",
+    "price": 1200,
+    "features": ["Utensils", "Play food", "Sound effects"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P367",
+    "name": "Magic Trick Set",
+    "price": 550,
+    "features": ["Card tricks", "Disappearing coin", "Guide book"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P368",
+    "name": "Kite Fighter",
+    "price": 50,
+    "features": ["Paper", "Bamboo frame", "Colorful"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P369",
+    "name": "Bubble Gun Machine",
+    "price": 350,
+    "features": ["Battery operated", "LED lights", "Liquid included"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P370",
+    "name": "Jigsaw Puzzle 500",
+    "price": 599,
+    "features": ["Nature scene", "Interlocking", "Poster included"],
+    "category": "Toys & Games",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P371",
+    "name": "Car Scents Gel",
+    "price": 250,
+    "features": ["Lemon fresh", "Canister", "Long lasting"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P372",
+    "name": "Seat Belt Pad",
+    "price": 299,
+    "features": ["Soft foam", "Velcro", "Prevents chafing"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P373",
+    "name": "Car Cover Waterproof",
+    "price": 1499,
+    "features": ["Silver coating", "Elastic hem", "Mirror pockets"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P374",
+    "name": "Key Chain Leather",
+    "price": 199,
+    "features": ["Metal ring", "Braided strap", "Elegant"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P375",
+    "name": "Hydraulic Jack",
+    "price": 2500,
+    "features": ["2 Ton capacity", "Bottle type", "Lift heavy"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P376",
+    "name": "Aux Cable 3.5mm",
+    "price": 150,
+    "features": ["Braided", "Gold plated", "1 meter"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P377",
+    "name": "Car Dustbin Mini",
+    "price": 250,
+    "features": ["Cup holder fit", "Push lid", "Washable"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P378",
+    "name": "Ice Scraper",
+    "price": 199,
+    "features": ["Plastic blade", "Foam grip", "Windshield safe"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P379",
+    "name": "Neck Pillow Car",
+    "price": 599,
+    "features": ["Headrest mount", "Memory foam", "Ergonomic"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P380",
+    "name": "Bumper Guard Strip",
+    "price": 350,
+    "features": ["Set of 4", "Corner protection", "Adhesive"],
+    "category": "Automotive",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P381",
+    "name": "Voice Recorder Digital",
+    "price": 2200,
+    "features": ["8GB storage", "Noise reduction", "USB transfer"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P382",
+    "name": "E-Reader Paperwhite",
+    "price": 10999,
+    "features": ["Glare free", "Waterproof", "Weeks of battery"],
+    "category": "Electronics",
+    "stock": "Limited Stock"
+  },
+  {
+    "id": "P383",
+    "name": "Satellite Radio",
+    "price": 4500,
+    "features": ["Car kit", "Color screen", "Live channels"],
+    "category": "Electronics",
+    "stock": "Out of Stock"
+  },
+  {
+    "id": "P384",
+    "name": "Home Theater 5.1",
+    "price": 12500,
+    "features": ["Surround sound", "Bluetooth", "Karaoke ready"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P385",
+    "name": "PC Case Fan RGB",
+    "price": 600,
+    "features": ["120mm", "Silent operation", "Vibrant colors"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P386",
+    "name": "Rain Poncho Disposable",
+    "price": 50,
+    "features": ["Emergency use", "Compact", "Clear plastic"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P387",
+    "name": "Bow Tie Black",
+    "price": 350,
+    "features": ["Pre-tied", "Adjustable strap", "Satin finish"],
+    "category": "Clothing",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P388",
+    "name": "Tote Bag Jute",
+    "price": 250,
+    "features": ["Eco friendly", "Strong handles", "Shopping bag"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P389",
+    "name": "Passport Holder",
+    "price": 450,
+    "features": ["RFID safe", "Ticket slot", "Leather look"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P390",
+    "name": "Reading Glasses",
+    "price": 599,
+    "features": ["+1.5 power", "Blue light block", "Light frame"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P391",
+    "name": "Measuring Tape 5m",
+    "price": 150,
+    "features": ["Retractable", "Lock button", "Steel tape"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P392",
+    "name": "Super Glue Gel",
+    "price": 50,
+    "features": ["Instant bond", "No drip", "Multi surface"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P393",
+    "name": "Cable Ties Pack",
+    "price": 100,
+    "features": ["100 pieces", "Black nylon", "Self locking"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P394",
+    "name": "Door Stopper Rubber",
+    "price": 120,
+    "features": ["Wedge shape", "Non-slip", "Floor safe"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P395",
+    "name": "Screwdriver Set Precision",
+    "price": 350,
+    "features": ["Magnetic tips", "For electronics", "Case included"],
+    "category": "Home & Kitchen",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P396",
+    "name": "Waist Bag Fanny Pack",
+    "price": 499,
+    "features": ["Adjustable belt", "3 zippers", "Travel safe"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P397",
+    "name": "Umbrella 3-Fold",
+    "price": 550,
+    "features": ["Automatic open", "Windproof", "Compact"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P398",
+    "name": "Bandana Paisley",
+    "price": 99,
+    "features": ["Cotton", "Square", "Multipurpose"],
+    "category": "Accessories",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P399",
+    "name": "Laptop Sleeve 15.6",
+    "price": 699,
+    "features": ["Padded neoprene", "Zipper", "Scratch proof"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  },
+  {
+    "id": "P400",
+    "name": "Micro SD Card 64GB",
+    "price": 799,
+    "features": ["Class 10", "Adapter included", "Fast transfer"],
+    "category": "Electronics",
+    "stock": "In Stock"
+  }
+]
